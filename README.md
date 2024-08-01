@@ -12,13 +12,21 @@ Tools and Technologies Used:
   Browser: Google Chrome with ChromeDriver.
 
 Test Scenarios Covered:
+
 Valid Login:
+
   Description: Verify that a user can log in with valid credentials.
+  
   Expected Outcome: User is redirected to the homepage.
+  
 Invalid Login - Incorrect Password:
+
   Description: Verify that an error message is displayed when an incorrect password is used.
+  
   Expected Outcome: An error message indicating invalid credentials is displayed.
 
 Execution and Results:
+
   Valid Login: Passed - The user was successfully redirected to the homepage.
+  
   Invalid Login - Incorrect Password: Passed - An error message was displayed as expected.
