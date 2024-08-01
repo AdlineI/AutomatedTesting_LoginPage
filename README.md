@@ -2,10 +2,14 @@
 In this project, I automated the testing of the login functionality for a web application. The aim was to ensure the login process works correctly under various conditions such as valid login, invalid login with incorrect password.
 
 Tools and Technologies Used:
-  Programming Language: Python
-  Test Automation Framework: Selenium
-  IDE: Visual Studio Code
-  Browser: Google Chrome with ChromeDriver
+
+  Programming Language: Python,
+  
+  Test Automation Framework: Selenium,
+  
+  IDE: Visual Studio Code,
+  
+  Browser: Google Chrome with ChromeDriver.
 
 Test Scenarios Covered:
 Valid Login:
